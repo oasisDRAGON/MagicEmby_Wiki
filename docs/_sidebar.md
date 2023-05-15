@@ -1,29 +1,33 @@
-- Getting started
+- 基础部分
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [前言](README.md)
+  - [如何获得账号](如何注册.md)
+  
+- 关于保号
 
-- Customization
+  - [本服保号规则](/基础部分/保号要求/考核规则/保号规则.md)
+  - [白名单](/基础部分/保号要求/考核规则/白名单功能说明.md)
+    
+- 机器人使用
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [账号相关](/机器人使用/账号相关.md)
+  - [签到](/机器人使用/签到.md)
+  - [查看服务器状态](/机器人使用/服务器.md)
+  - [注册码中心[注册码/白名单]](/机器人使用/注册码中心.md)
+   
+- 在各种设备上观看
 
-- Guide
+  - Android
+    - 移动端[手机/平板]
+        - [Emby官方客户端](/在各种设备上使用/Android手机/官方客户端.md)
+        - [使用外部播放器](/在各种设备上使用/Android手机/MXPlayer.md)
+    - TV端
+        - [Emby TV版](/在各种设备上使用/Android手机/官方客户端.md)
+        - [使用外部播放器](/在各种设备上使用/Android手机/MXPlayer.md)
+  - iOS/iPadOS
+    - [Emby官方客户端](/在各种设备上使用/Android手机/官方客户端.md)
+    - [使用外部播放器](/在各种设备上使用/Android手机/MXPlayer.md)
+  - [签到](/机器人使用/签到.md)
+  - [查看服务器状态](/机器人使用/服务器.md)
+  - [注册码中心[注册码/白名单]](/机器人使用/注册码中心.md)
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)

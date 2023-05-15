@@ -1,32 +1,22 @@
-## docsify
+![魔法embylogo.png](../../_resources/魔法embylogo.png)
 
-> A magical documentation site generator.
+本服联名机场：https://t.me/tgmfjsq
 
-## What it is
+本服频道：[@Magic_EmbyChannel](https://t.me/Magic_EmbyChannel)
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+本服群组：[@Magicemby](https://t.me/Magicemby)
 
-See the [Quick start](quickstart.md) guide for more details.
+开号机器人： [@Magic_EmbyBot](https://t.me/Magic_EmbyBot)
 
-## Features
-
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+求片机器人： [@Magic_MovieBot](https://t.me/Magic_MovieBot)
+* * *
+## 关于本 Emby 公益服
+本 Emby 公益服是一个免费影视媒体库，让你免去自己购买 NAS 或服务器来下载、整理、刮削影片等诸多麻烦的流程，  
+只需要使用本服允许的客户端登录 Emby 公益服务器即可在各种设备上观影。
+* * *
+## 入群须知
+群内严禁出现**任何形式的广告**，包括但不限于 ID、暗示、频道、AFF链接等  
+群内禁止讨论**本服之外的机场**  
+为了公益服长久发展，**请勿在任何场合**展示、公开本站的 Emby 链接，账号亦仅限个人使用  
+在群内发问前请先通读一遍**本服 Wiki 及本服群组置顶消息、群描述**，如果胡乱发问，你可能会被踢出去  
+公益服没有客服，不提供技术支持，如果你的问题描述足够详细，**可能**会有热心大佬帮你解答  
