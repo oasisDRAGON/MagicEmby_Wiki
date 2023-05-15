@@ -1,12 +1,11 @@
-![logo](_media/icon.svg)
+![logo](_media/Magic_Emby_Round.png)
 
-# docsify <small>4.13.0</small>
+# 基于docsify <small>4.13.0</small>构建
 
-> A magical documentation site generator.
+> 欢迎来到魔法✨emby.
 
 - Simple and lightweight
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[开始阅读](#/README)
