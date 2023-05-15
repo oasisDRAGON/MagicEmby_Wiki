@@ -20,18 +20,18 @@ Set `coverpage` to **true**, and create a `_coverpage.md`:
 ```markdown
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/Magic_Emby_Round.png)
 
-# docsify <small>3.5</small>
+# 基于docsify <small>4.13.0</small>构建
 
-> A magical documentation site generator.
+> 欢迎来到魔法✨emby.
 
 - Simple and lightweight
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[开始阅读](#/README)
+
 ```
 
 ## Custom background
