@@ -3,4 +3,4 @@
 > 基于 docsify 构建
 
 
-[开始阅读](#docsify)
+[开始阅读](/README?id=关于本-emby-公益服)
